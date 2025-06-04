@@ -6,6 +6,10 @@ public class PS {
 	public void doThis() {
 		System.out.println("I am here");
 	}
+	
+	public void doThis2() {
+		System.out.println("I am here 2");
+	}
 
 	@BeforeMethod
 	public void beforeRun() {

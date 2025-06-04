@@ -18,4 +18,9 @@ public class PS2 extends PS3 {
 		return a;
 	}
 	
+	public int multiply() {
+		a = a * 4;
+		return a;
+	}
+	
 }
